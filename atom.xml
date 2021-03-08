@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://io-ice.github.io</id>
     <title>小冰的博客</title>
-    <updated>2021-03-08T13:01:52.603Z</updated>
+    <updated>2021-03-08T13:04:18.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://io-ice.github.io"/>
     <link rel="self" href="https://io-ice.github.io/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://io-ice.github.io/post/xi-wang/">
         </link>
         <updated>2021-03-08T12:57:55.000Z</updated>
-        <content type="html"><![CDATA[<p>春天是充满希望的，对吗？对的！</p>
+        <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/io-oss/NetDisk/img/20210308210236.png" alt="桃花" loading="lazy"><br>
+春天是充满希望的，对吗？对的！</p>
 ]]></content>
     </entry>
     <entry>
