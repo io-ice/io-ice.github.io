@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://io-ice.github.io</id>
     <title>小冰的博客</title>
-    <updated>2021-11-15T03:40:43.831Z</updated>
+    <updated>2021-11-15T03:46:25.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://io-ice.github.io"/>
     <link rel="self" href="https://io-ice.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://io-ice.github.io/images/avatar.png</logo>
     <icon>https://io-ice.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小冰的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[满足]]></title>
+        <id>https://io-ice.github.io/post/man-zu/</id>
+        <link href="https://io-ice.github.io/post/man-zu/">
+        </link>
+        <updated>2021-11-15T03:42:55.000Z</updated>
+        <content type="html"><![CDATA[<p>每次看着你，充满了幸福，觉得很满足！我爱你呀，我的小姑娘！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爱]]></title>
         <id>https://io-ice.github.io/post/ai/</id>
