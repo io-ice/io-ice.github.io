@@ -2,14 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://io-ice.github.io</id>
     <title>小冰的博客</title>
-    <updated>2021-11-15T03:48:04.375Z</updated>
+    <updated>2022-03-09T10:25:35.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://io-ice.github.io"/>
     <link rel="self" href="https://io-ice.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://io-ice.github.io/images/avatar.png</logo>
     <icon>https://io-ice.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 小冰的博客</rights>
+    <rights>All rights reserved 2022, 小冰的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[坚持]]></title>
+        <id>https://io-ice.github.io/post/jian-chi/</id>
+        <link href="https://io-ice.github.io/post/jian-chi/">
+        </link>
+        <updated>2022-03-09T10:19:00.000Z</updated>
+        <content type="html"><![CDATA[<p>好像这几年真的好难，不断地受伤，又为了一个小小的她不断地自愈。朋友说，你很坚强。只有我知道，无数个崩溃的日子，我是怎样咬牙坚持下来的。加油，我和我最爱的女儿，我们都会成为最好的人！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[满足]]></title>
         <id>https://io-ice.github.io/post/man-zu/</id>
